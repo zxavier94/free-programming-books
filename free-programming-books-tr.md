@@ -15,6 +15,7 @@
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Matlab](#matlab)
+* [.NET Framework](#net-framework)
 * [PHP](#php)
 * [Python](#python)
   * [Django](#django)
@@ -37,7 +38,6 @@
 
 * [C Programlama Diline Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php)
 * [Programlamaya Giriş Ders Notları, H. Turgut Uyar](http://web.itu.edu.tr/uyar/programlama/)
-* [Sistem Programlama ve İleri C Uygulamaları Kurs Notları - Uyarlama 1](http://www.kaanaslan.com/resource/course_note/download_file.php?file_id=16)
 
 
 ### CSS
@@ -97,12 +97,16 @@
 * [GNU Bash Başvuru Kılavuzu](http://belgeler.org/bashref/bashref.html)
 * [Linux Belgeleri](http://belgeler.org/howto/howtos.html)
 * [Linux Sistem Yöneticisinin Kılavuzu](http://belgeler.org/sag/sag.html)
-* [UNIX/Linux Sistem Programlama Kurs Notları](http://www.kaanaslan.com/resource/course_note/course_note.php)
 
 
 ### Matlab
 
 * [Matlab Programlamaya Giris](http://ismailari.com/blog/matlab-programlamaya-giris/)
+
+
+### .NET Framework
+
+* [ASP.NET Core El Kitabı](https://sahin.gitbook.io/asp-net-core-el-kitab)
 
 
 ### PHP
@@ -112,12 +116,11 @@
 
 ### Python
 
-* [Bilgisayar Bilimcisi gibi Düşünmek Python ile Öğrenme 2. Baskı](https://tekrei.github.io/other/bbgd_p/) - Allen B. Downey, Jeff Elkner and Chris Meyers
 * [Bilgisayar Bilimcisi Gibi Düşünmek-Python3 ile Öğrenme](http://ofenerci.github.io/thinkcspy-tr) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey ve Chris Meyers
 * [Python ile Programlama](https://belgeler.yazbel.com/python-istihza/)
 
 
-#### Django
+### Django
 
 * [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr/) (1.11) (HTML) (:construction: *in process*)
 
